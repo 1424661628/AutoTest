@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39705050-237e-4c5e-b6a2-d7bded1de9fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/ParamterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -112,8 +109,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="372" />
+    <option name="x" value="162" />
+    <option name="y" value="317" />
     <option name="width" value="1669" />
     <option name="height" value="970" />
   </component>
@@ -173,16 +170,6 @@
               <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="paramter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -201,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589212584257" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589213142183" />
     <property name="last_opened_file_path" value="E:/github" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,7 +305,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589200138727</updated>
       <workItem from="1589200146125" duration="2565000" />
-      <workItem from="1589207913633" duration="3707000" />
+      <workItem from="1589207913633" duration="4207000" />
     </task>
     <task id="LOCAL-00001" summary="idea init">
       <created>1589200262489</created>
@@ -369,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589212358259</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="参数化测试-xml文件参数化&#10;参数化测试-DataProvider参数化">
+      <created>1589212717413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589212717413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -387,7 +381,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6272000" />
+    <option name="totallyTimeSpent" value="6772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,8 +393,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="298" width="1335" height="776" extended-state="1" />
-    <editor active="true" />
+    <frame x="103" y="298" width="1335" height="776" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933067" visible="true" weight="0.2404072" />
       <window_info id="Structure" order="1" sideWeight="0.50066936" side_tool="true" weight="0.21888112" />
@@ -445,7 +438,8 @@
     <MESSAGE value="组测试中方法分组测试和类分组测试" />
     <MESSAGE value="异常测试" />
     <MESSAGE value="依赖测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="依赖测试" />
+    <MESSAGE value="参数化测试-xml文件参数化&#10;参数化测试-DataProvider参数化" />
+    <option name="LAST_COMMIT_MESSAGE" value="参数化测试-xml文件参数化&#10;参数化测试-DataProvider参数化" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
